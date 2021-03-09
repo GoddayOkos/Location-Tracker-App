@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "3444017952",
+    "firebase_url": "https://week-8-task-default-rtdb.firebaseio.com",
+    "project_id": "week-8-task",
+    "storage_bucket": "week-8-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3444017952:android:c649f96751711b0770e545",
+        "android_client_info": {
+          "package_name": "com.droid.tolulope.week_8_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3444017952-pqie6blrrqt6ltl7f5rvqkhs6tsib02f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD44MbjOYAek-BOrx-UDzYw4qi63HefkDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3444017952-pqie6blrrqt6ltl7f5rvqkhs6tsib02f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3444017952:android:1c28b321b43c053070e545",
+        "android_client_info": {
+          "package_name": "dev.decagon.godday.locationtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3444017952-pqie6blrrqt6ltl7f5rvqkhs6tsib02f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD44MbjOYAek-BOrx-UDzYw4qi63HefkDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3444017952-pqie6blrrqt6ltl7f5rvqkhs6tsib02f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

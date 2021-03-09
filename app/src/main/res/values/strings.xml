@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Location Tracker</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_pokemon_gallery">Pokemon Gallery</string>
+    <string name="normal_map">Normal Map</string>
+    <string name="hybrid_map">Hybrid Map</string>
+    <string name="satellite_map">Satellite Map</string>
+    <string name="terrain_map">Terrain Map</string>
+    <string name="week_eight_task">Week Eight Task</string>
+    <string name="task_desc">Working with maps and APIs</string>
+    <string name="drawer_image">drawer image</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Pokemon Gallery</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+
+    <string name="features_text">
+        \u25A0 Abilities\n\t\t\u25AA %1$s\n\t\t\t\t\u25AA Hidden: %2$s
+                    \n\t\t\t\t\u25AA Slot: %3$s\n\t\t\u25AA %4$s\n
+                    \t\t\t\t▪ Hidden: %5$s\n\t\t\t\t▪ Slot: %6$s\n\u25A0 Base experience: %7$s
+    </string>
+    <string name="features_text_2">
+        \u25A0 Games Indices: %1$s\n\u25A0 Height: %2$s\n\u25A0 Id: %3$s\n\u25A0 Moves\n\t\t\u25AA %4$s\n
+        \t\t▪ %5$s\n\t\t▪ %6$s\n\t\t▪ %7$s
+        \n\t\t▪ %8$s\n\t\t▪ %9$s\n\t\t▪ %10$s\n
+        \t\t▪ %11$s\n\t\t▪ %12$s\n\t\t▪ %13$s\n■ Stats\n
+        \t\t▪ Base stat: %14$s\n\t\t\t\t▪ Effort: %15$s\n\t\t\t\t\u25AA Name: %16$s\n
+        \t\t▪ Base stat: %17$s\n\t\t\t\t▪ Effort: %18$s\n\t\t\t\t▪ Name: %19$s\n
+        \t\t▪ Base stat: %20$s\n\t\t\t\t▪ Effort: %21$s\n\t\t\t\t▪ Name: %22$s\n
+        \t\t▪ Base stat: %23$s\n\t\t\t\t▪ Effort: %24$s\n\t\t\t\t▪ Name: %25$s\n
+        \t\t▪ Base stat: %26$s\n\t\t\t\t▪ Effort: %27$s\n\t\t\t\t▪ Name: %28$s\n
+        \t\t▪ Base stat: %29$s\n\t\t\t\t▪ Effort: %30$s\n\t\t\t\t▪ Name: %31$s\n
+        ■ Types\n\t\t▪ Slot: %32$s\n\t\t\t\t▪ Name: %33$s\n
+        \u25A0 Weight: %34$s
+    </string>
+    <string name="bookmark_image">partner_image</string>
+</resources>
